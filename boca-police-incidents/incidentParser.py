@@ -36,7 +36,6 @@ def write_new_file():
     
 
 if __name__ == "__main__":
-    # This function executes when you do "filingScraper.py" on the command line.
     print("Cleaning file now...");
     main();
     print("All done!");
