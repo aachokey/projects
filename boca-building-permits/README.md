@@ -2,5 +2,5 @@
 
 Scrapes building permit records from:
 
-http://www.myboca.us/1122/Applied-Permits
-http://www.myboca.us/1123/Issued-Permits
+1. http://apps.ci.boca-raton.fl.us/bp/issued-permits.php
+2. http://apps.ci.boca-raton.fl.us/bp/applied-permits.php
