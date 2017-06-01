@@ -8,14 +8,16 @@ from bs4 import BeautifulSoup
 # Issued permits: http://apps.ci.boca-raton.fl.us/bp/issued-permits.php
 
 url = "http://apps.ci.boca-raton.fl.us/bp/issued-permits.php"
+output_file = input("What do you want to call this file? (Don't add extension): ");
 
 link_list = []
 
 def main():
-    get_files();
+    lookup_files();
+    # scrape_files();
 
 
-def get_files():
+def lookup_files():
     r = requests.get(url)
     if int(r.status_code) == 200:
 
@@ -24,12 +26,14 @@ def get_files():
         page_links = soup.select('a[href]');
 
         for link in page_links:
-            if 'xls' in link.text.strip().lower():
-
+            # if 'xls' in link.text.strip().lower():
+            print(link)
     else:
         print("That URL doesn't work.")
 
-        
+ 
+ # def scrape_files():
+ #    print(link_list)
 
 
 if __name__ == "__main__":
