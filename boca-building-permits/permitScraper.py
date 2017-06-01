@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 # Issued permits: http://apps.ci.boca-raton.fl.us/bp/issued-permits.php
 
 url = "http://apps.ci.boca-raton.fl.us/bp/issued-permits.php"
-output_file = input("What do you want to call this file? (Don't add extension): ");
+# output_file = input("What do you want to call this file? (Don't add extension): ");
 
 link_list = []
 
@@ -23,14 +23,12 @@ def lookup_files():
 
         print("Scraping page...")
         soup = BeautifulSoup(r.content, "html5lib");
-        page_links = soup.select('a[href]');
-
-        for link in page_links:
-            # if 'xls' in link.text.strip().lower():
-            print(link)
+        for link in soup.find_all('a'):
+            link_url = link.get('href')
+            link_list.append("http://apps.ci.boca-raton.fl.us%s" % link_url)
     else:
         print("That URL doesn't work.")
-
+    print(link_list)
  
  # def scrape_files():
  #    print(link_list)
