@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Virtual environment
+venv
+venv/*
+
+# Jupyter Notebooks
+*.ipynb_checkpoints

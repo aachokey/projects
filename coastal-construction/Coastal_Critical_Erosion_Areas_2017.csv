@@ -1,0 +1,188 @@
+﻿RANGES,STATUS,COUNTY,LOCAL_NAME,OBJECTID,SHAPELEN
+R046 - R048.4,Critical,Sarasota,Siesta Key,1,807.25495706507
+R064 - R077,Critical,Sarasota,Siesta Key,2,4015.93188275462
+R081 - R100.3,Critical,Sarasota,Casey Key,3,6028.44896773999
+R116 - R143,Critical,Sarasota,Venice,4,8154.55748215569
+R160 - R183.8,Critical,Sarasota,Manasota Key,5,7119.23191954671
+R002 - R041.3,Critical,Manatee,Anna Maria Island,6,12305.2914554945
+R042 - R067,Critical,Manatee,Longboat Key,7,7776.23346580156
+R006 - R012,Critical,Pinellas,Honeymoon Island,8,2132.92599271753
+R017 - R020,Noncritical,Pinellas,Caladesi Island,9,927.526697528794
+R047 - R049,Critical Inlet,Pinellas,Clearwater Beach Island,10,646.273067011176
+R056 - R115.4,Critical,Pinellas,Sand Key,11,18333.8962250552
+R126 - R143,Critical,Pinellas,Treasure Island,12,5552.20541643517
+R144 - R166,Critical,Pinellas,Long Island,13,6425.06637061736
+R168 - R176,Noncritical,Pinellas,South Bunces Key,14,2909.73657701733
+R176 - R182,Critical,Pinellas,Mullet Key,15,1984.33916496909
+R009 - R033,Critical,Nassau,Amelia Island,16,7138.28510333145
+R061 - R080,Critical,Nassau,Amelia Island,17,6675.12390746111
+ ,Critical Inlet,Nassau,Amelia Island St. Mary's Inlet,18,3237.48646270929
+ ,Noncritical Inlet,Duval,Big Talbot Island,19,3164.63070273352
+R021 - R023,Critical,Duval,Little Talbot Island,20,416.715264738886
+R023 - A1A Bridge,Critical Inlet,Duval,Little Talbot Island,21,1310.78331116026
+V501 - R080,Critical,Duval,All beaches south of the river,22,16121.7039440323
+R193.5 - R196,Noncritical,St. Johns,Anastasia Island,23,801.801106189299
+R197 - R209,Critical,St. Johns,Beaches south of Matanzas Inlet,24,4083.90838495017
+R132 - R152,Critical,St. Johns,Conch/Anastasia Islands,25,6127.04069158892
+R001 - R004,Critical,Flagler,Marineland,26,897.397434593541
+R076 - R094.8,Critical,Flagler,Flagler Beach,27,5339.32798779339
+R057 - R118,Critical,Volusia,"Ormond Beach, Daytona Beach,",28,17759.7287731411
+R160.8 - R207.8,Critical,Volusia,"New Smyrna Beach, Bethume Beach",29,13558.598826905
+R207.8 - R214,Noncritical,Volusia,Canavereal National Shoreline,30,1878.82841342008
+ ,Critical Inlet,Volusia,Ponce de Leon Inlet North,31,740.943058185712
+V320 - V365,Noncritical,Brevard,Canaveral National Shoreline,32,13667.6367800789
+V417 - V436,Noncritical,Brevard,Canaveral National Shoreline,33,5830.71806382084
+R001 - R202,Critical,Brevard,"Canaveral, Indiatlantic, Melbourne Beach",34,58890.8124800052
+R204 - R227.9,Critical,Palm Beach,"Spanish River Park, Red Reef Park",35,7895.20261351286
+R001 - R010,Critical,Palm Beach,"Tequesta, Jupiter Inlet Colony",36,2433.51094153554
+R038 - R040,Noncritical,Palm Beach,Juno Beach,37,604.721163508414
+R058 - R060.5,Noncritical,Palm Beach,John D. MacArthur State Park,38,780.882736264063
+R060.5 - R069,Critical,Palm Beach,Singer Island,39,2908.82644930533
+R076 - R128,Critical,Palm Beach,Palm Beach,40,17506.8944879334
+R133.5 - R137.4,Critical,Palm Beach,South Palm Beach,41,5688.67660806634
+R152 - R168,Critical,Palm Beach,"Ocean Ridge, Briny Breezes",42,5177.06942115615
+R176 - R190,Critical,Palm Beach,Delray Beach,43,4630.28797909615
+R012 - R038,Critical,Palm Beach,"Jupiter Beach Colony Park, Carlin Park",44,7992.20422444841
+ ,Critical Inlet,Palm Beach,Jupiter Inlet S,45,280.434462814844
+ ,Critical Inlet,Palm Beach,Jupiter Inlet N,46,336.870175886284
+R006 - R023,Critical,Broward,"Deerfield Beach, Hillsboro Beach",47,5201.84122895307
+R025 - R077,Critical,Broward,"Pampano Beach, Ft. Lauderdale",48,15730.9558612623
+R086 - R128,Critical,Broward,John U. Lloyd State Recreation Area,49,13052.8627050791
+R001 - R026.7,Critical,Dade,"Golden Beach, Sunny Isles",50,8255.14110064257
+R027 - R074.4,Critical,Dade,"Bal Harbour, Surfside, Miami Beach",51,15183.2899144224
+R084 - R088,Noncritical,Dade,Virginia Key,52,1280.25530987985
+R089 - R092,Noncritical,Dade,Key Biscayne,53,1169.50039767295
+R101 - R113,Critical,Dade,Key Biscayne,54,3754.17050700458
+ ,Noncritical,Pinellas,North Bunces Key,55,2704.37222881091
+ ,Critical,Taylor, Dekle Beach,56,328.066809442733
+ ,Critical,Dixie,Bird Island,57,362.265144469996
+ ,Critical,Dixie,Cotton Island,58,336.754893905827
+R203 - R207,Critical,Lee,Carlos Point,59,1407.16126381811
+ ,Critical,Levy,Deer Island,60,727.667298453798
+ ,Critical,Dixie,Shired Island,61,316.253473293963
+ ,Critical,Pasco,Hudson Beach,62,350.536187205196
+ ,Noncritical,Hernando,Pine Island,63,749.198372002184
+V352 - V353,Critical,Monroe,Long Key,64,1596.5188426894
+V365.5 -V366.5,Critical,Monroe,Key Colony Beach,65,1437.04985661126
+V383 - V384.7,Critical,Monroe,Bahia Honda State Park,66,3015.87438969189
+V388.2 - V388. 5,Noncritical,Monroe,Big Pine Key,67,1604.04695328653
+V407 - V408.5,Critical,Monroe,Boca Chica Key,68,2033.90149421392
+V410.8 - V415,Critical,Monroe,Key West,69,6574.64907492018
+V415,Critical,Monroe,Fort Zachary Taylor,70,480.625990624754
+R002 - R010,Critical,Hillsborough,Egmont Key,71,3302.10541595863
+V316 - V321,Noncritical,Pasco,Anclote Key,72,1777.49856892032
+V317 - V334,Noncritical,Franklin,St. Vincent ISland,73,5684.64587734
+V316 - V330,Noncritical,Bay,Crooked Island,74,5326.35546478966
+R001 - R022.8,Critical,Walton,Miramar Beach,75,7729.23362635199
+R041 - R054.5,Critical,Walton,Dune Allen,76,7228.10086029313
+R001 - R015,Critical,Okaloosa,Ft. Walton Beach,77,4559.24886783124
+R039 - R050,Critical,Okaloosa,Destin,78,3556.54894291109
+R001 - R034,Critical,Escambia,Perdido Key,79,10408.3799531528
+ ,Noncritical Inlet,Dade,Norris Cut,80,763.522871496361
+V363.5 - V365.1,Noncritical,Monroe,Coco Plum Beach - East End,81,2505.87968672637
+V363  - V363.5,Critical,Monroe,Little Crawl Key,82,1247.13328463998
+V371.2 - V371.6,Critical,Monroe,Sombrero Beach,83,461.005182253908
+ ,Critical Inlet,Bay,St Andrew Inlet,84,324.831169914072
+V336 - V341,Noncritical,Bay,Crooked Island,85,1547.65169202574
+R031 + E 1500 Ft,Critical Inlet,Sarasota,Lido Key,86,399.865643105725
+V365.1 - V365.2,Critical,Monroe,Coco Plum Beach - West End,87,432.468780286066
+V385 Bayside,Critical,Monroe,Bahai Honda State Park,88,265.246805436786
+R128.5 - R147,Noncritical,Franklin,St. George State Park,89,5816.31193737885
+R143 - R145,Noncritical,Sarasota,Caspersen Beach,90,625.257506770395
+R065.2 - R070,Critical,Flagler,Beverly Beach,91,1437.61888257744
+R001- R051.3,Critical,Indian River,Wabasso Beach,92,15278.3095824397
+R070 - R086,Critical,Indian River,Vero Beach,93,4933.24167819783
+R099 - R115.7,Critical,Indian River, ,94,5084.09277259816
+R034 - R046,Critical,St. Lucie,South of Ft. Pierce Inlet,95,3683.93410339332
+R046 - R080,Noncritical,St. Lucie,North Hutchinson Island,96,10222.0272112706
+R080 - R090.3,Critical,St. Lucie,Power Plant Area,97,3080.73643612762
+R090.3 - R098,Noncritical,St. Lucie,The Narrows of Hutchinson Is.,98,2348.14222490155
+R098 - R115,Critical,St. Lucie,South Hutchinson Island,99,5377.87918582318
+R001 - R037.6,Critical,Martin,Hutchinson Island,100,10753.7601670886
+R045 - R111,Critical,Martin,Hobe Sound NWR,101,18187.447372333
+R126 - R127.4,Critical,Martin,Blowing Rocks,102,397.066359670296
+R067.3 - R068.3,Critical,Walton,Alligator Like,103,1548.05006605741
+R082 - R098,Critical,Walton,Seagrove Beach,104,6193.83719189976
+R122 - R124,Critical,Walton,Inlet Beach,105,7297.12098275534
+V360.6 - V361.2,Critical,Monroe,Little Crawl Key,106,1487.76273680896
+R017- R025.5,Critical,Okaloosa,Destin (West),107,2831.12636753502
+R069 - R106,Critical,Gulf,St. Joseph Peninsula State Park,108,11721.7696233667
+V334 -V339,Critical,Franklin,St. Vincent Island,109,1465.38026186804
+R106 - R128.5,Critical,Franklin,St. George Island State Park,110,7352.81782360536
+V323 - V331.4,Critical,Collier,Kice Island,111,2478.15169925541
+V333.8 - V341.8,Critical,Collier,Morgan Island,112,2684.2055120613
+V341.9 - V343.5,Noncritical,Collier,Morgan Island,113,717.462426311406
+V381,Critical,Monroe,Little Duck Key,114,364.756361972427
+V345.8 - V346.2,Critical,Monroe,Sea Oats Beach,115,979.238381780612
+R084 - R094,Critical,St. Johns,South Ponte Vedra Beach,116,10380.0659223684
+ ,Critical Inlet,Lee,Boca Grande N Shore,117,638.385344360003
+R014 - R016.3,Critical,Collier,North of Wiggins Pass,118,682.039073795328
+Pier - R002,Critical,Manatee,Northend of Anna Maria Island,119,464.670617306234
+V001 - V002,Critical,Manatee,Passage Key,120,597.638476012146
+R106 - R111.5,Critical,Gulf,Stump Hole and Lighthouse,121,1739.65789257668
+R220 - R222,Critical,Franklin,East Alligator Point,122,726.96020556689
+ ,Critical Inlet,Charlotte,Southside Stump Pass,123,562.103259539009
+V365 - V390,Critical,Brevard,Canaveral National Shoreline,124,6486.33150355995
+R123 - R128,Critical,St. Johns,Anastasia SP,125,1888.78467799971
+V303 - V308,Noncritical,Collier,Sea Oat Island,126,1504.04634639749
+V313 - V316,Critical Inlet,Collier,Big Marco Pass,127,1270.13835606076
+R022.3 - R030.5,Critical,Collier,Vanderbilt Beach Estates,128,2527.20469373002
+R050.6 - R057.5,Critical,Collier,North of Doctor's Pass,129,3870.83430501623
+R057.5 - R089,Critical,Collier,South of Doctor's Pass,130,9101.55762172767
+R090 - R111,Noncritical,Collier,Keewaydin Island,131,6310.82893249257
+R134.5 - R139,Critical,Collier,Marco Island,132,1198.07211834873
+R143 - R148,Critical,Collier,Marco Island,133,1668.84518257711
+R211 - R213,Noncritical Inlet,Lee,Lover's Key,134,539.607329710114
+R214 - R222,Critical,Lee,Lover's Key,135,2483.59860908896
+R222,Noncritical Inlet,Lee,"New Pass, North Shore",136,191.238459045245
+R222.7 - R225.9,Critical,Lee,Big Hickory Island,137,1069.25311894409
+R226 - R230,Critical,Lee,Little Hickory Island,138,1228.58408344343
+R027 - R033,Noncritical,Lee,Cayo Costa Island,139,1762.33916389468
+R046 - R052,Noncritical,Lee,Cayo Costa Island,140,1848.11251216877
+R060 - R065,Noncritical,Lee,Cayo Costa Island,141,1655.32641667404
+R066 + East 1000 Ft,Critical Inlet,Lee,North Captiva Island,142,338.124526207044
+R066 - R071,Critical,Lee,North Captiva Island,143,1662.81499355295
+R071 - R078,Noncritical,Lee,North Captiva Island,144,3245.35721081622
+R079 - R082.3,Critical,Lee,North Captiva Island,145,1385.9993433259
+R109 - R118,Critical,Lee,Sanibel Island,146,2630.13494011216
+R129 - R133,Critical,Lee,Sanibel Island,147,1249.39125259146
+R007 - R026.7,Critical,Lee,Gasparilla Island,148,6213.0669141667
+R175.4 - R200,Critical,Lee,Estero Island,149,7981.85014823024
+R084 - R109,Critical,Lee,Captiva Island,150,8008.75089225896
+R083 - R084,Critical Inlet,Lee,Captiva Island,151,405.155959989696
+ ,Noncritical,Levy,Seahorse Key,152,2096.42342920728
+ ,Critical,Levy,Atsena Otie Key,153,729.90133876339
+V304 - V318,Critical,Levy,Cedar Key,154,905.246417168061
+V303 - V317,Critical,Wakulla,Mashes Sands S,155,885.36108700824
+V321 - V336,Noncritical,Wakulla,Mashes Sands N,156,976.363500658406
+V341 - V365,Critical,Wakulla,Shell Point,157,1625.66419962622
+ ,Noncritical Inlet,Franklin,Sikes Cut West,158,508.8463983378
+ ,Noncritical Inlet,Franklin,Sikes Cut East,159,568.144417218731
+R015 - R018.5,Noncritical,Franklin,Cape St. George,160,1109.40698631034
+R018.5 - R022.5,Critical,Franklin,Cape St. George,161,1050.92535513102
+R022.5 - R024,Noncritical,Franklin,Cape St. George,162,512.802426332964
+R053 - R069,Noncritical,Franklin,St George Island Plantation,163,5360.94863012831
+R154 - R168,Noncritical,Franklin,Dog Island,164,4230.98092784259
+R168 - R187.2,Critical,Franklin,Dog Island,165,5794.7518948215
+R194 - R196,Noncritical,Franklin,Alligator Point,166,732.947123319555
+R210 - R225,Critical,Franklin,Alligator Point,167,1885.43725073617
+R225 - R232,Noncritical,Franklin,St Teresa Island,168,3488.75433535695
+R034 - R051,Noncritical,Franklin,St. George Island,169,5321.89308320503
+R041 - R069,Noncritical,Gulf,St Joseph Peninsula,170,8869.37272952743
+R111.5 - R114,Noncritical,Gulf,Cape San Blas,171,396.728138941076
+R150 - R162,Noncritical,Gulf,Indian Peninsula,172,3911.96684046378
+R001 - R097,Critical,Bay,St Andrews State Recreation Area,173,30249.683718306
+R098 - V309,Noncritical,Bay,Shell Island,174,9813.3379175719
+R132 - R137.8,Critical,Bay,Mexico Beach,175,1806.96425431597
+ ,Critical Inlet,Okaloosa,Norriego Point,176,1603.09182333268
+R192.5 - R213.5,Critical,Santa Rosa,Navarre Beach,177,6366.42096897335
+R034 - R065,Noncritical,Escambia,Gulf Islands National Seashore,178,9771.20022592784
+R079 - R107,Noncritical,Escambia,Gulf Islands National Seashore,179,8482.94383552277
+R107 - R151,Critical,Escambia,Pensacola Beach,180,13179.5330581953
+R001 - R017,Critical,Charlotte,Manasota Key,181,4953.60636807393
+R017 - R021.2,Critical,Charlotte,Manasota Key,182,1317.33400308091
+R028 - R040.5,Critical,Charlotte,"Knight Island, Bocilla Island",183,3656.06717207027
+R047.5 - R049.5,Critical,Charlotte,Little Gasparilla Island,184,605.303125629209
+R001 - R029,Critical,Sarasota,Longboat Key,185,8778.02725362631
+R031 - R044.5,Critical,Sarasota,Lido Key,186,4069.87106877638
+R044.5 - R045,Critical Inlet,Sarasota,Big Sarasota Pass,187,648.36366174509
